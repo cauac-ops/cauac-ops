@@ -25,7 +25,7 @@ echo "Local: Votuporanga, São Paulo · Brasil 🇧🇷"
 
 ## 📊 GitHub Stats
 
-![Disponível](https://img.shields.io/badge/Disponível%20para%20trabalho-brightgreen?style=flat)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauac-ops&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
