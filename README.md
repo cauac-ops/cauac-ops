@@ -41,4 +41,4 @@ echo "Local: Votuporanga, São Paulo · Brasil 🇧🇷"
 
 ---
 
-> *"Cada linha de código é um passo em direção ao próximo nível."* 🚀
+> *"Aprendendo na prática, construindo com propósito."* 💻
