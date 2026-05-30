@@ -25,7 +25,7 @@ echo "Local: Votuporanga, São Paulo · Brasil 🇧🇷"
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cauac-ops&show_icons=true&theme=dark&hide_border=true&locale=pt-br&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cauac-ops&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
 ---
 
