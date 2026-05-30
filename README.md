@@ -25,15 +25,13 @@ echo "Local: Votuporanga, São Paulo · Brasil 🇧🇷"
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cauac-ops&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cauac-ops&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
 <a href="https://github.com/cauac-ops">
   <img height=180 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=cauac-ops&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&count_private=true" />
 </a>
 <a href="https://github.com/cauac-ops">
   <img height=180 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cauac-ops&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br&card_width=320" />
 </a>
+
 ---
 
 ## 🛠️ Tecnologias
